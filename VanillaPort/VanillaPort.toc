@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff33ffccVanillaPort|r
+## Notes: World map teleport pins for GMs.
+## Version: 1.0.0
+
+TeleportData.lua
+VanillaPort.lua
